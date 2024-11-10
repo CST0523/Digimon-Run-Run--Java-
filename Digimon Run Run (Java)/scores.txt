@@ -1,0 +1,8 @@
+chew: 2
+chew: 38
+chew: 34
+chew: 35
+chew: 21
+chew: 0
+sss: 6
+sss: 26
