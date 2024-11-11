@@ -11,5 +11,5 @@ Choose Character
 ![Untitled](https://github.com/user-attachments/assets/9cb8895a-d2d7-495c-94c4-7d0a66612705)
 
 
-Win Game
+Play Game
 ![image](https://github.com/user-attachments/assets/b6a691d7-37a6-4f3a-9db4-2f42a3935305)
